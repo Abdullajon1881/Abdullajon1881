@@ -1,119 +1,68 @@
 <div align="center">
-
-# Abdullajon1881
-
-Full-stack engineer. I build things that don't break under load.
-
-<br>
-
-```
-┌──────────────────────────────────────────────┐
-│  code is a liability — clarity is free       │
-└──────────────────────────────────────────────┘
-```
-
-<br>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=180&section=header&text=Abdullajon&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
-
----
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullajon1881&show_icons=true&theme=dark&hide_border=true&hide_title=true" height="160" alt="GitHub Stats" />
+### Full-Stack Engineer · Java, Python, TypeScript
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullajon1881&layout=compact&theme=dark&hide_border=true&hide_title=true" height="160" alt="Top Languages" />
+<p>
+  <a href="https://github.com/Abdullajon1881"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/username"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
+</p>
 
 </div>
 
----
-
-## About
-
-I write software intended to last — not through over-engineering, but through restraint. I care about systems that do one thing well, fail obviously when they must, and are simple enough that someone at 2am can diagnose them without a runbook.
-
-Most of my work sits between frontend interfaces and backend infrastructure. I'm interested in the boundaries: how data moves, where latency hides, what breaks first when traffic spikes. That's where architecture decisions actually matter.
-
-I measure code quality by how easily it can be deleted. Abstractions should reduce complexity, not relocate it. If a module needs a diagram to understand, it's probably wrong.
-
-When I'm not shipping features, I study how production systems actually behave — not how they behave in demos. Reading postmortems, studying consensus algorithms, tracing requests through layers I didn't write. That's where the real lessons are.
-
----
+<br/>
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**Frontend**
+</div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<br/>
 
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Databases & Cache**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Infrastructure & Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
----
-
-## What I'm Working On
-
-- **AuthentiGuard** — authentication and authorization system in Python; building proper session management, role-based access, and secure token handling
-- Deepening distributed systems fundamentals: consensus protocols, leader election, and failure modes when networks partition
-- Implementing Redis-backed caching and rate limiting — mapping the tradeoffs between consistency, latency, and memory cost
-
----
-
-## Featured Projects
-
-▸ **[AuthentiGuard](https://github.com/Abdullajon1881/AuthentiGuard)** — Auth system with session management, RBAC, and secure token flow. `Python` `security`
-
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-▸ **[HELAZY-FROM-SCRATCH](https://github.com/Abdullajon1881/HELAZY-FROM-SCRATCH)** — Built from the ground up to explore core JavaScript patterns without frameworks. `JavaScript` `from-scratch`
-
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-▸ **[vrachiapp](https://github.com/Abdullajon1881/vrachiapp)** — Healthcare application platform. `Python` `webapp`
-
----
-
-## Engineering Principles
-
-1. Readability is the only metric that compounds
-2. If you can't explain the design in two sentences, it's too complex
-3. Production is the only environment that tells the truth
-4. Delete code before you add it — the best feature is the one you didn't build
-5. Tests document intent. Write them like documentation, not like puzzles
-
----
-
-## Currently Reading
-
-- **Designing Data-Intensive Applications** — Martin Kleppmann
-- **Raft Consensus Algorithm** — Ongaro & Ousterhout
-- **Redis in Action** — eviction policies and memory management tradeoffs
-
----
+## Projects
 
 <div align="center">
 
-[Email](mailto:you@email.com) · [LinkedIn](https://linkedin.com/in/username) · [Telegram](https://t.me/username)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullajon1881&repo=AuthentiGuard&theme=dark&hide_border=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullajon1881&repo=HELAZY-FROM-SCRATCH&theme=dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullajon1881&show_icons=true&theme=dark&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullajon1881&layout=compact&theme=dark&hide_border=true" height="165" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" />
 </div>
