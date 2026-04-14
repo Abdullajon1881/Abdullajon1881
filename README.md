@@ -8,9 +8,9 @@
 
 <p>
   <a href="https://github.com/Abdullajon1881"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/abdullajon1881"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/username](https://www.linkedin.com/in/saidkamolkhon-bakhodirov-76966a370/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saidkamolxonb@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Abdullajon1881&style=flat&color=blueviolet" alt="Profile views"/>
@@ -61,8 +61,8 @@
 
 ```javascript
 const contact = {
-  email: "you@email.com",
-  telegram: "@username",
+  email: "saidkamolxonb@gmail.com",
+  telegram: "@abdullajon1881",
   location: "Uzbekistan",
   open_to: ["Full-Stack Projects", "Backend Development", "API Consulting"]
 };
